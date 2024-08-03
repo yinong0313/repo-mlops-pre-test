@@ -1,2 +1,2 @@
 # repo-mlops-pre-test
-my awesome diescription
+my awesome description
